@@ -4,7 +4,12 @@
   padding: 0;
 }
 
-.hero, .headline, footer {
+.header {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.hero, footer {
   background-color: #1f2937;
   color: white;
 }
@@ -12,5 +17,10 @@
 h1 {
   font-size: 48px;
   font-weight: bolder;
-  color: #f9faf8;
+  color: #F9FAF8;
+}
+
+.headline.p {
+  font-size: 18px;
+  color:#E5E7EB;
 }
