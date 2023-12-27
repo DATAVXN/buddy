@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+.hero, footer {
+  background-color: #1f2937;
+  color: white;
+}
+
 .hero {
   padding: 5px 100px 60px;
   color: #F9FAF8;
@@ -19,12 +24,6 @@
   color: #F9FAF8;
   padding-bottom: 60px;
 }
-
-.hero, footer {
-  background-color: #1f2937;
-  color: white;
-}
-
 
 h1 {
   font-size: 48px;
