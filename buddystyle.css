@@ -57,3 +57,9 @@ h4 {
   font-size: 18px;
   line-height: 1rem;
 }
+
+.image {
+  width: 500px;
+  height: 300px;
+  background-color: pink;
+}
