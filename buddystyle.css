@@ -4,31 +4,34 @@
   padding: 0;
 }
 
-.hero, footer {
+.hero, footer, .logotext, h1 {
   background-color: #1f2937;
-  color: white;
+  color: #F9FAF8;
 }
 
 .hero {
   padding: 5px 100px 60px;
-  color: #F9FAF8;
 }
 
 .logomenu {
+  padding-bottom: 60px;
   display: flex;
-  flex: 1;
+  justify-content: space-between;
 }
 
 .logotext {
   font-size: 24px;
-  color: #F9FAF8;
-  padding-bottom: 60px;
+}
+
+.navlinks {
+  list-style-type: none;
+  background-color: pink;
+  display: flex;
 }
 
 h1 {
   font-size: 48px;
   font-weight: bolder;
-  color: #F9FAF8;
 }
 
 .headline.p {
