@@ -6,14 +6,25 @@
 
 .hero {
   padding: 5px 100px 60px;
+  color: #F9FAF8;
+}
+
+.logomenu {
+  display: flex;
+  flex: 1;
+}
+
+.logotext {
   font-size: 24px;
   color: #F9FAF8;
+  padding-bottom: 60px;
 }
 
 .hero, footer {
   background-color: #1f2937;
   color: white;
 }
+
 
 h1 {
   font-size: 48px;
