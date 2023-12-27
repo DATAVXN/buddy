@@ -35,12 +35,25 @@ a {
   color:#E5E7EB;
 }
 
+.headline, .headline.p {
+  color:#E5E7EB;
+}
+
+.headline {
+  max-width: 300px;
+}
+
 h1 {
   font-size: 48px;
   font-weight: bolder;
+  padding-bottom: 10px;
 }
 
-.headline.p {
+h4 {
+  padding-bottom: 5px;
+}
+
+.headline p {
   font-size: 18px;
-  color:#E5E7EB;
+  line-height: 1rem;
 }
