@@ -87,6 +87,10 @@ img {
   justify-content: right;
 }
 
+.midbutton {
+  background-color: #3882F6;
+}
+
 .products {
   display: flex;
 }
