@@ -62,7 +62,7 @@ h3 {
   line-height: 1.30rem;
 }
 
-.midsection {
+.midsection, .allfigures {
   display: flex;
   gap: 3rem;
   justify-content: center;
@@ -106,5 +106,9 @@ img {
 
 .products {
   display: flex;
+  padding-bottom: 20px;
+}
+
+.productdivs {
   flex: 1;
 }
