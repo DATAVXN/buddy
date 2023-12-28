@@ -105,7 +105,7 @@ img {
 }
 
 .producttitle {
-  padding-top: 10px;
+  padding: 50px;
   color: #1f2937;
   font-size: 25px;
   font-weight:bolder;
@@ -115,10 +115,10 @@ img {
 }
 
 .allfigures {
-  background-color: pink;
   display: flex;
   justify-content: center;
   padding-top: 20px;
   padding-bottom: 20px;
   gap: 2rem;
 }
+
