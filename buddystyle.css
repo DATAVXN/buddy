@@ -76,6 +76,7 @@ h3 {
 }
 
 img {
+  border: solid 1px #F9FAF8;
   border-radius: 20px;
 }
 
@@ -126,5 +127,7 @@ img {
 .productimage {
     width: 200px;
     height: 200px;
+    border: solid .5px #21406b;
 }
+
 
