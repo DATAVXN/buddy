@@ -152,13 +152,15 @@ figcaption {
   color: #1f2937;
 }
 
-blockquote {
-  min-width: 50px;
-  width: 400px;
+.blockquote {
+  text-align: center;
+  width: 300px;
+  background-color: pink;
 }
 
 .block1 {
   text-align: justify;
+  padding: 10px;
 }
 
 .block2 {
