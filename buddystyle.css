@@ -124,6 +124,15 @@ img {
   gap: 2rem;
 }
 
+.figures {
+  display: table;
+}
+
+figcaption {
+  display: table-caption; 
+  caption-side: bottom
+}
+
 .productimage {
     width: 200px;
     height: 200px;
