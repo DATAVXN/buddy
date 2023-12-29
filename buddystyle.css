@@ -145,7 +145,24 @@ figcaption {
     border: solid .5px #21406b;
 }
 
+.quotediv  {
+  background-color: lightgray;
+  padding: 50px;
+  font-size: 25px;
+  color: #1f2937;
+}
 
+blockquote {
+  min-width: 50px;
+  width: 400px;
+}
 
+.block1 {
+  text-align: justify;
+}
+
+.block2 {
+  text-align: right;
+}
 
 
