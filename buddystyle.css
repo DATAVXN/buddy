@@ -123,3 +123,8 @@ img {
   gap: 2rem;
 }
 
+.productimage {
+    width: 200px;
+    height: 200px;
+}
+
