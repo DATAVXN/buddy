@@ -121,11 +121,16 @@ img {
   justify-content: center;
   padding-top: 20px;
   padding-bottom: 20px;
-  gap: 2rem;
+  gap: 5rem;
 }
 
 .figures {
   display: table;
+}
+
+.figuretitles {
+  display: flex;
+  justify-content: center;
 }
 
 figcaption {
