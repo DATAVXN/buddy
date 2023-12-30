@@ -190,7 +190,13 @@ figcaption {
 .actiontitleandtext {
   display: flex;
   justify-content: space-between;
-  gap: 3rem;
+  gap: 5rem;
+}
+
+.actionh3 {
+  text-transform: uppercase;
+  font-weight:bold;
+  color: #F9FAF8;
 }
 
 
