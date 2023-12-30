@@ -175,10 +175,17 @@ figcaption {
 
 .calltoaction {
   background-color: white;
-  background-color: pink;
   padding: 75px;
   display: flex;
   justify-content: center;
+}
+
+.actiontext {
+  background-color: #3882f6;
+  color: #F9FAF8;
+  padding: 20px;
+  border-radius: 10px;
+
 }
 
 
