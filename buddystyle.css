@@ -206,7 +206,6 @@ figcaption {
 .topbutton {
   background-color: #1f2937;
   color: #F9FAF8;
- 
   border-style:dotted;
   border-radius: 10%;
   border: 4px double #cccccc;
@@ -216,7 +215,6 @@ figcaption {
 a:hover {
   color: #1f2937;
   background-color: #cccccc;
-  
   border-style:dotted;
   border-radius: 10%;
   border: 4px double #1f2937;
