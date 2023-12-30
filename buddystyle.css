@@ -199,6 +199,19 @@ figcaption {
   color: #F9FAF8;
 }
 
+.footerbutton {
+  padding-top: 10px;
+}
+
+.topbutton {
+  background-color: #1f2937;
+  color: #F9FAF8;
+  width: 50px;
+  border-style:dotted;
+  border-radius: 10%;
+  border: 4px double #cccccc;
+  margin: 0 50%;
+}
 
 
 
