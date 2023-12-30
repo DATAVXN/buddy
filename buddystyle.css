@@ -183,9 +183,14 @@ figcaption {
 .actiontext {
   background-color: #3882f6;
   color: #F9FAF8;
-  padding: 20px;
+  padding: 30px 150px;
   border-radius: 10px;
-
 }
+
+.actiontitleandtext {
+  background-color: pink;
+}
+
+
 
 
