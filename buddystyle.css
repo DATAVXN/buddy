@@ -173,4 +173,12 @@ figcaption {
   font-weight: 900;
 }
 
+.calltoaction {
+  background-color: white;
+  background-color: pink;
+  padding: 75px;
+  display: flex;
+  justify-content: center;
+}
+
 
