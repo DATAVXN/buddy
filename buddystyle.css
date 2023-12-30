@@ -148,14 +148,19 @@ figcaption {
 .quotediv  {
   background-color: lightgray;
   padding: 50px;
-  font-size: 25px;
-  color: #1f2937;
+}
+
+.quoteblockposition {
+  display: inline-block;
+  align-items: center;
 }
 
 .blockquote {
-  text-align: center;
-  width: 300px;
-  background-color: pink;
+  width:400px;
+  font-size: 25px;
+  color: #1f2937;
+  margin-left: 175%;
+  margin-right: 200%;
 }
 
 .block1 {
@@ -165,6 +170,7 @@ figcaption {
 
 .block2 {
   text-align: right;
+  font-weight: 900;
 }
 
 
